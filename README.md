@@ -6,3 +6,4 @@ A simple animation using hyper text markup, Cascading styles sheets and JavaScri
 * Adding different eye colors
 * Adding Intermittent blinking
 #### MIT License
+Open index.html to run
